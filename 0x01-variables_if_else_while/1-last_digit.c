@@ -4,11 +4,12 @@
 /* more headers goes there */
 
 /**
-
+*
 *main - Entry point
-
+*
 *Description: Assigns a random number to the variable n each time it is
 *executed and prints the last digit of n
+*
 *Return: Always 0 (Success)
 */
 int main(void)
